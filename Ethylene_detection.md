@@ -24,9 +24,9 @@
 
 ##Ethylene measurement for quality fruit monitoring
 ####1.Photoacoustic Spectroscopy
-- Provides highest sensitivity values to ethylene gas
 - **Method** : Laser beam polarized and chopped in specific frequency. Based on chemical structure, specific gas compound absorbs light light at specific wavelenght. Gas periodically heated according to copping frequency. Pressure changes caused by temperature changes measured by microphone. 
 - **Result** : Photoacoustic amplitude rises with concentration of specific gas component. 
-- **Disadvantage** : Price, inherent sensitivity towards ambient noise and vibration added to humidity, temperature. 
+- **Disadvantage** : Inherent sensitivity towards ambient noise and vibration added to humidity, temperature. 
 
 ####2.Electrochemical 
+- **Chemoresistive Sensor** : Device that detects a gas through change of sensor's area/surface resisitivity caused by chemical bindings of molecules. Mixture of copper complex & single-walled carbon nanotubes 
