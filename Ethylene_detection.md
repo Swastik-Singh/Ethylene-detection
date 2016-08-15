@@ -6,29 +6,29 @@
 
 - **Issues** : 
 
-1.Lack of portable units
-
-2.High humidity inside controlled atmosphere
+	1.Lack of portable units
+	
+	2.High humidity inside controlled atmosphere
 
 - Three potentially promising measurement principles
 
-**1.Non dispersive infrared spectroscopy**
-
-**2.Miniaturized gas chromatography**
-
-**3.Electrochemical measurement**
+	**1.Non dispersive infrared spectroscopy**
+	
+	**2.Miniaturized gas chromatography**
+	
+	**3.Electrochemical measurement**
 
 - Above measurement princibles compared *w.r.t* fruits logistics
 
-**1.Sensitivity**
-
-**2.Selectivity**
-
-**3.Long Term Stability**
-
-**4.Facilitation of automated measurement**
-
-**5.Suitability for mobile applications**
+	**1.Sensitivity**
+	
+	**2.Selectivity**
+	
+	**3.Long Term Stability**
+	
+	**4.Facilitation of automated measurement**
+	
+	**5.Suitability for mobile applications**
 
 - Systems costs around 10,000 euros.
 
