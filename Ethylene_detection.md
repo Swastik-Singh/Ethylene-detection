@@ -34,6 +34,11 @@
 
 ##Ethylene Measurement Methods
 ###1.Photoacoustic Spectroscopy
+
+| Squad Number | Diagnosis       | Expert Commentary   |
+|--------------|---------------|--------------|
+| 1            | [Photoacoustic spectroscopy of CO2 laser in the detection of gaseous molecules](http://iopscience.iop.org/article/10.1088/1742-6596/274/1/012086/meta) | In this work, a photoacoustic laser spectrometer with CO2 emission in the infrared range and a resonant photoacoustic cell was used. The resonance frequency of 2.4 kHz to photoacoustic cell, was estimated detection limit of the spectrometer ethylene, 16 ppbV was obtained|
+
 - **Method** : Laser beam polarized and chopped in specific frequency. Based on chemical structure, specific gas compound absorbs light light at specific wavelenght. Gas periodically heated according to copping frequency. Pressure changes caused by temperature changes measured by microphone. 
 
 - **Result** : Photoacoustic amplitude rises with concentration of specific gas component. 
